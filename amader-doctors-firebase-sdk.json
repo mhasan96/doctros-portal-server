@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amader-doctors",
+  "private_key_id": "edfb66a9b94c8c70074ae9d7da468fc422490b21",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDh4W/X8+MbwqCp\nwAw4AxZHqzuG68k1N2dg9ueZZKFaRn7pNANO/TGH1ZtmjjkWvLXADHn+vgKvjOhz\ntiD4m1vKs1RKMg1n/XYK3XB2MUCrSTRPw+G4f2/lGu0Pq6Lj8H+qfn1N7wn1nZEy\nan4vDpgJz542ZhAn/wKkZtTvKy6fWX9e5zAUHDj0gzPf0GCS3TlNYos7gLrtHHar\nCrCqBoFkd4EKX625KT/PaPluytVd0YbB1FJLokCYeY1PQPo4btjFrTtYBin8AUZ4\nzlr9RlZ9Sn/JDX8E61pqjf2wKnj/Oqxs/KW7irKcBkzCNMZprwOlwbggbvAHq8fA\nMXWzj85pAgMBAAECggEAA1xWXwSFtAE/F7LkkoEOZZdLil1JAATEFDR18BmH+VOE\nLt8O4dRVjWSb/qYgWJp4mO9kTPx64eR7KlPZvCktS1/68/9cydfL6k/ljPShEebD\n2mlkCLUx06RORep8LpYnOmVgYuRhynsVmeF/mB6j0uId1f6lwCzgDh38sujV7D5G\n++KYqRyOYe8GhrDldQLkSBL6/8RwGzhFd35I4vGTUP2sb/Sebwq2fY3VonVacfRm\nwfiTRhLc5kLOlFSHT1xw7VPzVZDai+i9B2zBnSQsVyzBdI4it1wpjpVmP07AlZMF\nMGkscOmM1lK09IQiAJ8ST5t3G40zpiB/5rBCBZbFswKBgQD2J+bZxQjQeXwWPEPL\nw4RrMbgN0PHToO6gq0mdGzWWogLEKNwuitKTIsGlHgMawOy5JR43y9DaDyEQOXxG\nUIaTCUkxQadwI8I2baJPtS8wEuhFta9vZh0+Hg8huTIyw+ZYftToiUv28IAjnCM/\nuDbvh5JuGEhyRURzrtwTcVMCHwKBgQDq6fX5LqHSTrz1GAbjaP584M5O3KtUOyVP\nfOJzft3523ToHFPkiZJp6v9rfhwf/KG0Z2IxlTeOaSrPacEfINBJUnehpYBbxBFv\nAShu7O5F2SvO82NaaMWBgGWpbT8Tyy0yHhsQMbQZo1rXwewImt7rkGTsVh62WGPo\nbmH339/udwKBgDbXUvZHkJwpxLyLdqtKBxF+xTvGxmnY2/FN2Bu5eSnzNFyRoeR4\np0uCndP0qMpoGxVwsJfLv98lKb+cnxRnUmQl2Hmx3+T7AoTvzg6mFjpGrBsDzG8s\nN+2j8skXophuzr3+m96m4BbHJDVKzwueNhcNhFEk9dcHmaWQWpW2VMEPAoGAI9HC\n4Nj8cb3x0Al222wiCdaZfqrlMPXHzaQEP4ojvLp6y/2tyRY1DhN4GOLk1PfHjGOL\nNHZFP2DH11KP0PhG6jc56Jr8xIFUCzIJAUj9WAcyR98S0jFRlFqIpdnzmUgMvyya\nAdEiXhpreqSmIfXDcfXVfbfv/OvjaAiUxaAMXCcCgYEA8a/if26xrECxbyJGWIt7\naEuDmPbUTYR58SurdGq6VjR34YQ2BIoaKlCXEydgV92k+HfRll+cyw2aLQ6eX56d\nUArZFlE7jNeRxiN9LhpJsAw0bg4NIbvQfNydPEuT4EXY0Mpo2SCwkg4ylE2r1Lv/\nhayVNdhi02Jlm4rvEQaBgQE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fh8eh@amader-doctors.iam.gserviceaccount.com",
+  "client_id": "114650993942090421009",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fh8eh%40amader-doctors.iam.gserviceaccount.com"
+}
